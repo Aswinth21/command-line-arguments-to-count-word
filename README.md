@@ -32,6 +32,7 @@ with open(sys.argv[1], 'r') as f:
                 count[word] += 1
 print(count)
 f.close()
+```
 ### OUTPUT:
 ![image](https://github.com/Aswinth21/command-line-arguments-to-count-word/assets/120236638/ce671925-d685-4101-bfc9-d152ed1c7bef)
 
